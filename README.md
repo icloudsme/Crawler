@@ -29,6 +29,8 @@
 * [Scrapy入门文档](http://scrapy-chs.readthedocs.org/zh_CN/0.24/intro/tutorial.html)
 * [Scrapy初级实战](http://www.ituring.com.cn/article/114408)
 * [Scrapy初级实战之数据可视化](http://aljun.me/post/9)
+* [模拟登陆各种网站的方法](https://github.com/xchaoinfo/fuck-login)
+* [一个比较完善的zhuhu爬虫,已经写成库，很方便使用](https://github.com/7sDream/zhihu-oauth)
 
 ## 参与人员
 
