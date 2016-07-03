@@ -21,6 +21,7 @@
 * [Python 爬虫技巧总结,Cookies处理,get(),post(),以及如何伪装成浏览器等](http://www.codeceo.com/article/python-spider-skills.html#0-tsina-1-54529-397232819ff9a47a7b7e80a40613cfe1)
 * [Python 爬虫学习系列教程,非常好，入门系列](http://cuiqingcai.com/1052.html)
 * [Python 工程师,很全面的 Python 技术,在知乎有专栏](http://zhuanlan.zhihu.com/xlz-d)
+* [Python 实现的各种脚本](https://github.com/tanteng/learn-python)
 
 ## 爬虫进阶 
 
